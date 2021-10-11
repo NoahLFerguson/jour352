@@ -1,0 +1,31 @@
+h1 {
+    color: #33485e;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+img {
+    max-width: 600px;
+    width: 100%;
+}
+
+.dek,h5 {
+  font-style: italic;
+}
+
+.img{
+  float: right;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+}
+
+p, li, ul{
+  font-family: 'Andada Pro', serif;
+}
+
+h2,mark{
+  background-color: #000080;
+  color: white;
+
+}
