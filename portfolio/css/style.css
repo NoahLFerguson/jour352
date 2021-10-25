@@ -1,13 +1,16 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #87CEEB;
+    text-align: center;
+}
 h1 {
     color: #33485e;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
+    text-align: center;
 }
 
-img {
-    max-width: 600px;
-    width: 100%;
-}
+
 
 .dek,h5 {
   font-style: italic;
@@ -25,8 +28,8 @@ p, li, ul{
 }
 
 h2,mark{
-  background-color: #000080;
-  color: white;
+  background-color: silver;
+  color: b;
 
 }
 
